@@ -1,0 +1,23 @@
+{
+  "name": "node-docker-example",
+  "version": "1.0.0",
+  "description": "Docker github action test repo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swtpumpkin/node-docker-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swtpumpkin/node-docker-example/issues"
+  },
+  "homepage": "https://github.com/swtpumpkin/node-docker-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
